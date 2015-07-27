@@ -1,0 +1,101 @@
+@import url(http://fonts.googleapis.com/css?family=Yesteryear);
+@import url(http://fonts.googleapis.com/css?family=Pathway+Gothic+One);
+body {
+	background: #262626;
+}
+#navigation{
+	Height: 90px;
+	background: #000;
+	line-height: 90px;
+	color: #fff;
+	Padding-right:45px;
+	Padding-left:45px;
+}
+#logo {
+	font-size: 45px;
+	font-family: 'Yesteryear', cursive;
+}
+.nav-link {
+	padding-left: 10px;
+}
+
+a:link,
+a:visited,
+a:hover,
+a:active{
+	color: #238c00;
+}
+#call-to-action {
+	font-size: 24;
+	background: #238c00;
+	padding-top: 15px;
+	padding-bottom: 25px;
+	color: #fff;
+}
+#cta-btn{
+	display: inline-block;
+	padding: 15px 20px;
+	background: #134c00;
+	text-transform: uppercase;
+	color: #fff;
+}
+#pre-footer {
+	background: #262626;
+	color: #a0a2a4;
+	padding: 30px;
+}
+#name{
+	font-family: 'Pathway Gothic One', sans-serif;
+	padding-top: 100px;
+	padding-bottom: 10px;
+	background-color: #9F9F9F;
+	font-size: 82px;
+	color: #fff;
+}
+#program{
+	font-family: 'Pathway Gothic One', sans-serif;
+	padding-top:20px;
+	padding-bottom: 100px;
+	background-color: #9F9F9F;
+	font-size: 32px;
+	color: #fff;
+}
+#project-page-title{
+	font-family: 'Pathway Gothic One', sans-serif;
+	font-weight: 600;
+	font-size: 64px;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	background-color: #9F9F9F;
+	color: #fff;
+}
+#project-title{
+	font-weight: 600;
+	font-size: 32px;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	color: #fff;
+	padding-left:20px;
+}
+#project{
+	font-weight: 400;
+	font-size: 24px;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	color: #fff;
+	padding-left:20px;
+}
+.prefooter-header {
+	font-weight: 600;
+	font-size: 32px;
+	color: inherit;
+}
+.footer{
+	Height: 90px;
+	background: #1c1c1c;
+	line-height: 90px;
+	font-size: 150%;
+	color: #fff;
+	Padding-right:45px;
+	Padding-left:45px;
+}
